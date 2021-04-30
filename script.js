@@ -1,2 +1,2 @@
-import {without} from "lodash";
-alert(without);
+var _ = require ('lodash');
+console.log(_);
